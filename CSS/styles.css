@@ -99,7 +99,7 @@
 	div.leftbox p{
 		color: #ffffff;
 		background-color: #09A732;
-		font-size: 15px;
+		font-size: 12px;
 		padding: 25px;
 		width: 200px;
 		text-align: center;
@@ -146,13 +146,13 @@
 		background-color: #80ff80;
 	} 
 	div.rightbox h1{
-		font-size: 18px;
+		font-size: 16px;
 		color: #f50707;
 		text-align: center;
 		font-family: times new roman;
 	}
 	div.rightbox h2{
-		font-size: 14px;
+		font-size: 12px;
 		color: #000000;
 		text-align: justify;
 		font-family: times new roman;
@@ -179,7 +179,7 @@
 
 	/*le pied de page*/
 	footer{
-		background-color:  #09A732;
+		background-color:  #000806; 
 		width: 100%;
 		padding: 50px;
 		font-family: times new roman;
